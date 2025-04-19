@@ -33,13 +33,19 @@ Make sure you have the following installed:
 React.js - A JavaScript library for building user interfaces
 CSS - Used for styling the app
 
-### Future Enhancements
+### Deployment
+Deploying to **Vercel**
+- Go to https://vercel.com and sign up or log in.
+- Click "New Project" and import your GitHub repository.
+- Vercel will auto-detect the React app and suggest default settings.
+- Click "Deploy" – your app will be live in a few seconds!
 
-Task Categories: Organize tasks into different categories (e.g., Work, Personal, Shopping).
-Due Dates: Add due dates to tasks.
-Task Prioritization: Mark tasks with different priorities (e.g., High, Medium, Low).
-User Authentication: Allow users to create accounts and save tasks across devices.
-Contributing
+### Live Demo
+https://todolistusingreactjs.vercel.app/ <br>
+Go ahead and try it yourself!
+
+
+### Contributing
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request or file an issue.
 
 ### Acknowledgements
