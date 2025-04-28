@@ -21,15 +21,7 @@ Make sure you have the following installed:
 - **Node.js**: [Download Node.js](https://nodejs.org/)
 - **npm or Yarn**: Node package manager comes with Node.js. [Download Yarn](https://yarnpkg.com/) if you prefer it.
 
-### Installation
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/ToDoList.git
-
 ### Built With
-
 React.js - A JavaScript library for building user interfaces
 CSS - Used for styling the app
 
